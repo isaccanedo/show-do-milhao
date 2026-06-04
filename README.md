@@ -1,4 +1,4 @@
-# Show do Milhão
+## Show do Milhão
 
 Um programa de perguntas e respostas.<br>
 Para jogar, basta clicar no botão "Começar" e escolher uma entre as 4 opções de resposta por pergunta.<br>
